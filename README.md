@@ -1,6 +1,6 @@
 # Todo
 
-### [View Demo](https://i-varunrana.github.io/todo/)
+### [View Demo](https://dev-varunrana.github.io/vanilla-todo-app/)
 
 Simple todo using MVC application in plain JavaScript
 
